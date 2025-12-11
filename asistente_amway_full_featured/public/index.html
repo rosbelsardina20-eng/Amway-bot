@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Asistente Amway - Tienda</title>
+  <link rel="manifest" href="/manifest.json" />
+</head>
+<body>
+  <h1>Asistente Amway</h1>
+  <p>Bienvenido — Chatbot multicanal para tu tienda Amway.</p>
+  <button id="chat">Abrir chat (web)</button>
+  <script>
+    document.getElementById('chat').addEventListener('click', ()=> alert('Aquí se abriría un WebChat integrado (demo).'));
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js').then(()=>console.log('SW registered'));
+    }
+  </script>
+</body>
+</html>

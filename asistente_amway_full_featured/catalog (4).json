@@ -1,0 +1,59 @@
+[
+  {
+    "id": "A001",
+    "name": "Artistry Youth Xtend Serum",
+    "category": "Cuidado facial",
+    "tags": [
+      "anti-edad",
+      "serum",
+      "piel seca"
+    ],
+    "price": 45.9,
+    "currency": "USD",
+    "image_url": "https://example.com/img/A001.jpg",
+    "buy_link": "https://amway.example/checkout?product=A001",
+    "short_desc": "Serum antiarrugas que mejora la firmeza en 4 semanas.",
+    "benefits": [
+      "Reduce arrugas",
+      "Mejora elasticidad"
+    ]
+  },
+  {
+    "id": "A002",
+    "name": "Nutrilite Daily Multivitamin",
+    "category": "Vitaminas y Suplementos",
+    "tags": [
+      "vitaminas",
+      "energ\u00eda",
+      "inmunidad"
+    ],
+    "price": 29.5,
+    "currency": "USD",
+    "image_url": "https://example.com/img/A002.jpg",
+    "buy_link": "https://amway.example/checkout?product=A002",
+    "short_desc": "Multivitam\u00ednico diario para energ\u00eda y bienestar general.",
+    "benefits": [
+      "Energ\u00eda",
+      "Soporte inmunol\u00f3gico"
+    ]
+  },
+  {
+    "id": "A003",
+    "name": "eSpring Water Purifier (filtro)",
+    "category": "Hogar",
+    "tags": [
+      "filtraci\u00f3n",
+      "hogar",
+      "agua"
+    ],
+    "price": 199.0,
+    "currency": "USD",
+    "image_url": "https://example.com/img/A003.jpg",
+    "buy_link": "https://amway.example/checkout?product=A003",
+    "short_desc": "Sistema de purificaci\u00f3n de agua para el hogar.",
+    "benefits": [
+      "Agua limpia",
+      "Elimina impurezas"
+    ]
+  }
+]
